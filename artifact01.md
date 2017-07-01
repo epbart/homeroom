@@ -1,4 +1,5 @@
-<!DOCTYPE html><html><head><title>Module 01 Artifact 01</title></head>
+<!DOCTYPE html><html lang="en">
+<head><title>Module 01 Artifact 01</title></head>
 <body><h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1><hr>
 <h2>PERSONAL DETAILS</h2>	
 
@@ -13,9 +14,9 @@ To expand skills and experience within the marketing department of an internatio
 
 <h2>EDUCATION HISTORY</h2>
 
-<strong>May 2006 – Current 	</strong>	
+<strong>May 2006 – Current 	</strong>
 <i>University of Sao Paulo, Sao Paulo BRAZIL </i>
-http//:www.fe.usp.br
+<a href="http//:www.fe.usp.br">University Website</a>
 Masters in International Marketing
 Expected graduation: Oct 2007
 
@@ -31,8 +32,8 @@ High School Certificate equivalent
 <h2>WORK EXPERIENCE </h2>
 
 Jan 2006 – Current
-MOEMA MARKETING, Sao Paulo BRAZIL 
-http://www.moemamkt.com.br  
+MOEMA MARKETING, Sao Paulo BRAZIL
+<a href ="http://www.moemamkt.com.br">Moema Website </a> 
 Marketing Trainee – Casual (weekends and holidays)
 
 <h3>Responsibilities and achievements:</h3><br>
@@ -43,8 +44,8 @@ Marketing Trainee – Casual (weekends and holidays)
 
 
 Jun 2006 – Sep 2006	
-THE ART OF MARKETING, Sao Paulo BRAZIL 
-http://www.artofmarketing.com  
+THE ART OF MARKETING, Sao Paulo BRAZIL
+<a href="http://www.artofmarketing.com">The Art of Marketing Website </a>  
 Internship – 12 weeks full-time
 
 <h3>Responsibilities and achievements:</h3><br>
@@ -112,6 +113,7 @@ Ph: + 555 222 333
 Fax: +555 222 334
 <address><a href="mailto:izabelam@artofmarketing.com" target="_blank">izabelam@artofmarketing.com</a></address>
 
-<p><figure><img src="https://github.com/epbart/homeroom/blob/master/pexels-photo-57021.jpeg" alt="Brazilian bird"></figure>
+<p><figure><img src="https://github.com/epbart/homeroom/blob/master/pexels-photo-57021.jpeg" width="300" height="200" alt="Brazilian bird"></figure>
 
-<p><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5" title="HTML5"></a></p></body></html>
+<p><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5" title="HTML5"></a></p>
+</body></html>
