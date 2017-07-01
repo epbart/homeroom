@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en"><title>Module 01 Artifact 01</title>
+<!DOCTYPE html><html><head><title>Module 01 Artifact 01</title></head>
 <body><h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1><hr>
 <h2>PERSONAL DETAILS</h2>	
 
@@ -112,6 +112,6 @@ Ph: + 555 222 333
 Fax: +555 222 334
 <address><a href="mailto:izabelam@artofmarketing.com" target="_blank">izabelam@artofmarketing.com</a></address>
 
-<p><figure><img src="homeroom/pexels-photo-57021.jpeg" alt="Brazilian bird"></figure>
+<p><figure><img src="https://github.com/epbart/homeroom/blob/master/pexels-photo-57021.jpeg" alt="Brazilian bird"></figure>
 
 <p><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5" title="HTML5"></a></p></body></html>
